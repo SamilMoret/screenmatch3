@@ -1,24 +1,19 @@
-ppackage br.com.alura.screenmatch2.service;
+package br.com.alura.screenmatch3.service;
 
 import com.google.cloud.translate.Translate;
 import com.google.cloud.translate.TranslateOptions;
 import com.google.cloud.translate.Translation;
 
-import javax.imageio.spi.IIORegistry;
+public class ConsultaLibreTranslate {
+    private static final String API_KEY = System.getenv("TRADUTOR_GOOGLE_APIKEY");
 
-public class ConsultaGoogleTranslate {
     public static String obterTraducao(String texto) {
-        // Configurar o serviço de tradução
-        IIORegistry TranslateOptions;
-        Translate translate = TranslateOptions.getDefaultInstance().getService();
-
-        // Traduzir o texto
+        Translate translate = TranslateOptions.newBuilder().setApiKey(API_KEY).build().getService();
         Translation translation = translate.translate(
                 texto,
                 Translate.TranslateOption.sourceLanguage("en"),
                 Translate.TranslateOption.targetLanguage("pt")
         );
-
         return translation.getTranslatedText();
     }
 }
