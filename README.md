@@ -1,4 +1,4 @@
-# Screenmatch3 API
+#   🎬 Screenmatch3 API
 
 ## 📜 Descrição
 
@@ -6,7 +6,7 @@ Este projeto é resultado do curso "Java: criando sua primeira API e conectando 
 
 ![Demonstração do Screenmatch ](https://github.com/SamilMoret/screenmatch3/blob/main/Anima%C3%A7%C3%A3o_Screenmatch3.gif)
 
-## 🚀 Funcionalidades
+## ✨ Funcionalidades
 
 - **API REST**: Transformação da aplicação Screenmatch em uma API REST.
 - **Spring Boot**: Utilização do Spring Boot para configurar e executar a aplicação com um servidor embutido.
@@ -15,6 +15,10 @@ Este projeto é resultado do curso "Java: criando sua primeira API e conectando 
 - **Serviços**: Implementação de classes de serviço com @Service para fornecer dados ao controlador.
 - **Rotas e Requisições**: Implementação completa das rotas esperadas pelo front-end.
 - **Filtros e Detalhes**: Criação de filtros por categorias e páginas de detalhes com dados de todas as temporadas e episódios.
+
+##  🚀 Endpoints 
+GET /series: Retorna todas as séries
+GET /series/{id}: Retorna detalhes de uma série específica
 
 ## 📚 Tecnologias Utilizadas
 
