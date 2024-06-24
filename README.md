@@ -1,11 +1,10 @@
-# Screenmatch API
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+# Screenmatch3 API
 
 ## 📜 Descrição
 
 Este projeto é resultado do curso "Java: criando sua primeira API e conectando ao front-end" da Alura. O objetivo foi criar uma API REST para fornecer dados a uma aplicação front-end, exercitando conceitos essenciais do desenvolvimento web com Java e Spring Boot.
+
+![Demonstração do Screenmatch ]()
 
 ## 🚀 Funcionalidades
 
@@ -19,11 +18,16 @@ Este projeto é resultado do curso "Java: criando sua primeira API e conectando 
 
 ## 📚 Tecnologias Utilizadas
 
-- Java
-- Spring Boot
-- Maven
-- Spring Boot
-- Front-end (HTML, CSS, JavaScript)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Google API](https://img.shields.io/badge/Google%20API-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+- ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## 📂 Estrutura do Projeto
 ```
@@ -62,15 +66,12 @@ mvn spring-boot:run
 ```
 4. Acesse a aplicação em http://localhost:8082
 
-## 📸 Imagens
-Página Inicial
-
-Detalhes da Série
 
 ## 🙌 Agradecimentos
 Agradeço ao Programa ONE Oracle + Alura pelo excelente curso e às instrutoras Jacqueline Oliveira e Iasmin Araújo pelo conteúdo didático e enriquecedor.
 
-<h3>🧑‍💻 Feito por:</h3>
-<p>Samil Moret</p>
-<a href="https://www.linkedin.com/in/samilmoret/"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
-<a href="https://linkwhats.app/f27e11"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
+🧑‍💻 ## Feito por:
+Samil Moret
+
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/samilmoret/)
+[![WhatsApp](https://img.icons8.com/color/48/whatsapp--v1.png)](https://linkwhats.app/f27e11)
