@@ -4,7 +4,7 @@
 
 Este projeto é resultado do curso "Java: criando sua primeira API e conectando ao front-end" da Alura. O objetivo foi criar uma API REST para fornecer dados a uma aplicação front-end, exercitando conceitos essenciais do desenvolvimento web com Java e Spring Boot.
 
-![Demonstração do Screenmatch ]()
+![Demonstração do Screenmatch ](https://github.com/SamilMoret/screenmatch3/blob/main/Anima%C3%A7%C3%A3o_Screenmatch3.gif)
 
 ## 🚀 Funcionalidades
 
