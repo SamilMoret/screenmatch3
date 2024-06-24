@@ -18,7 +18,7 @@ Este projeto é resultado do curso "Java: criando sua primeira API e conectando 
 
 ## 📚 Tecnologias Utilizadas
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 - ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,7 +64,7 @@ cd screenmatch3
 ```bash
 mvn spring-boot:run
 ```
-4. Acesse a aplicação em http://localhost:8082
+4. Acesse a aplicação em http://localhost:8083
 
 
 ## 🙌 Agradecimentos
