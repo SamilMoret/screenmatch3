@@ -1,4 +1,4 @@
-#   🎬 Screenmatch3 API
+ji#   🎬 Screenmatch3 API
 
 ## 📜 Descrição
 
@@ -74,7 +74,7 @@ mvn spring-boot:run
 ## 🙌 Agradecimentos
 Agradeço ao Programa ONE Oracle + Alura pelo excelente curso e às instrutoras Jacqueline Oliveira e Iasmin Araújo pelo conteúdo didático e enriquecedor.
 
-🧑‍💻 ## Feito por:
+## 🧑‍💻 Feito por:
 Samil Moret
 
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/samilmoret/)
